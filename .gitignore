@@ -1,0 +1,11 @@
+.DS_Store
+target
+*.iml
+*.ipr
+*.iws
+projectFilesBackup
+.idea
+.vagrant
+tmp/
+user-data-tmp*
+*.template.use
